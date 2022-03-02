@@ -1,0 +1,1 @@
+# Alguns exercícios do curso de Python.
